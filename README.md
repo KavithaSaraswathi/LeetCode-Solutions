@@ -36,3 +36,15 @@ LeetCode solutions are automatically synchronized to this repository using LeetH
 ## 🎯 Goal
 
 Build strong problem-solving skills and develop a solid understanding of Data Structures and Algorithms for technical interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
