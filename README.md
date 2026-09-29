@@ -43,10 +43,12 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,5 +56,10 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
