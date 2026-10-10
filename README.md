@@ -50,6 +50,7 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | [0217-contains-duplicate](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -90,4 +91,8 @@ Build strong problem-solving skills and develop a solid understanding of Data St
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/KavithaSaraswathi/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
